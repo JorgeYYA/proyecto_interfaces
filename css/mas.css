@@ -1,0 +1,112 @@
+
+body {
+  padding-top: 150px;
+}
+
+
+.card-title {
+  text-align: center;
+}
+
+
+.my_container {
+	
+	padding-right: 20px !important;
+	padding-left: 20px !important;
+	
+	
+	}
+	
+.card {
+	
+	margin-right:auto !important;	
+	border: 0px solid #2C2C2C !important;
+	
+	}
+	
+.card-header {
+		 background-color: #3c3b3b;
+		 color: white;
+		 border-bottom: 1px solid #2C2C2C;
+		 
+	
+	}
+	
+.card-body {
+		 background-color: #3c3b3b;
+		 color: white;
+	
+	}
+
+body {
+		 background-color: #2c2929 !important;
+	
+	}
+	
+.page-item.active .page-link {
+  z-index: 1;
+  color: black !important;
+  background-color: black !important;
+  border-color: #007bff;
+}
+
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #cccccc;
+  background-color: #121010;
+  border: 1px solid #2C2C2C;
+}
+
+.page-link:hover {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #DFDDDD;
+  background-color: #221E1E;
+  border: 1px solid #2C2C2C;
+}
+
+.page-item.disabled .page-link {
+  color: #727272;
+  pointer-events: none;
+  cursor: auto;
+  background-color: #3B3535;
+  border-color: #2C2C2C;
+}
+
+.username, .password, .password2, .email, .consulta {
+	background-color: #292626 !important;
+	border-color: #2C2C2C;
+	margin-bottom: 5px;
+	
+	
+	}
+	
+.form-control {
+	background-color: #292626 !important;
+	border-color: #2C2C2C;
+	
+	}
+	
+.img-thumbnail {
+  border: 1px solid #2C2C2C;
+  background-color: #292626;
+}
+
+.img-thumbnail:hover {	
+	background-color: #433E3E;
+	border: 1px solid #433E3E;	
+}
+
+.jumbotron {
+	background-color: #2c2929 !important;
+	
+	}
+	
